@@ -1,1 +1,1 @@
-![image](_images/tom_page.png)
+![image](./_images/tom_page.png)
