@@ -1,1 +1,1 @@
-![image](_images/iGEM%20Sheffield.png)
+![image](_images/tom_page.png)
